@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.text-center{
+  text-align: center;
+}
+.container{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  background:black;
+  
+  
+}
+.input{
+  margin: 20px;
+border:5px solid red;
+  border-radius:5px;
+width: 250px;
+height: 50px;
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-size:30px;
+}
+
+.button{
+  border-radius:10px;
+  background:grey;
+  color:white;
+  padding:20px;
+  cursor:pointer;
+  font-family: 'Fuzzy Bubbles', cursive;
+  
+}
+.buttons{
+   border-radius:10px;
+  background:red;
+  color:white;
+  padding:20px;
+  
+}

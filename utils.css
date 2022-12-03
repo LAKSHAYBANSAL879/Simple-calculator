@@ -1,0 +1,17 @@
+.container{
+  background: black;
+
+  
+}
+.container{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  background:black;
+/* .mx-auto{
+  margin: auto;
+}
+.m-w30{
+  max-width: 30vw;
+} */
